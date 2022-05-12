@@ -1,5 +1,5 @@
 import {Button} from '../../Globalstyles';
-import ChickenImg from '../../images/Big-chicken.svg';
+import ChickenImg from '../../images/big-chicken.svg';
 import {
     MealsContainer,
     MealsWrapper,

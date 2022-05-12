@@ -10,7 +10,7 @@ import {
     WorksIcon3,
     WorksCardTitle,
     WorksCardText
-} from './works.styles';
+} from './Works.styles';
 const Works = () => {
     return (
         <div>

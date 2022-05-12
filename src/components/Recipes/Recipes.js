@@ -1,8 +1,8 @@
 import {OutlineButton} from '../../Globalstyles';
 import SalmonImg from '../../images/salmon.png';
-import ChickenImg from '../../images/Chicken.svg';
-import PizzaImg from '../../images/Italian-pizza.svg';
-import PastaImg from '../../images/Pasta.svg';
+import ChickenImg from '../../images/chicken.svg';
+import PizzaImg from '../../images/italian-pizza.svg';
+import PastaImg from '../../images/pasta.svg';
 import SaladImg from '../../images/salad.png';
 import {
     RecipeContainer,
@@ -68,7 +68,7 @@ const Recipes = () => {
                                         Salmon and Hot Honey Butter
                                     </RecipeFeatureTitle>
                                     <RecipeFeatureText>
-                                        The hot honey kinda sounds like a hype name used before the 20s, (I used it back then). 
+                                        The hot honey kinda sounds like a +hype name used before the 20s, (I used it back then). 
                                         It’s a pefect coating for the salmon to enrinch it with sweetness and heat. 
                                     </RecipeFeatureText>
                                     <RecipeFeatureDetails>
