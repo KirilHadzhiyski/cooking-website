@@ -3,7 +3,7 @@ import SalmonImg from '../../images/salmon.png';
 import ChickenImg from '../../images/chicken.svg';
 import PizzaImg from '../../images/italian-pizza.svg';
 import PastaImg from '../../images/pasta.svg';
-import SaladImg from '../../images/salad.png';
+import SaladImg from '../../images/s+alad.png';
 import {
     RecipeContainer,
     RecipeWrapper,
